@@ -1,6 +1,7 @@
-{   "name": "@types/fixed-fucking-express-socket.io-session",
-    "version":"0.0.1",
-    "private": true,
+{
+    "name": "@types/fixed-fucking-express-socket.io-session",
+    "version": "0.0.1",
+    "private": false,
     "dependencies": {
         "@types/socket.io": "2.1.13"
     }
